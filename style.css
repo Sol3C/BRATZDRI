@@ -6,49 +6,49 @@ body {
     margin-bottom:100px;
     font-family: "Dancing Script", cursive;
    }
-   adrielle 3C 27/08
+
    header{
        border-bottom: solid 2px white;
        padding: 20px;
        font-size: 32px;
        color: rgb(15, 14, 14);
    }
-   adrielle 3C 27/08
+
    section{
     background: rgb(201, 11, 119);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
    }
-   adrielle 3C 27/08
+
    
     .chamada-texto {
        margin-right: 5%;
     }
-    adrielle 3C 27/08
+    
     h1{
        font-size: 40px;
     }
-    adrielle 3C 27/08
+    
     p{
        font-size: 20px;
     }
     img{
        height: 100px;
     }
-    adrielle 3C 27/08
+    
     .categoria-vídeos {
        display: flex;
        overflow-x:auto;
        gap: 10px;
     }
-    adrielle 3C 27/08
+
     .categoria{
        padding-left: 20px;
        padding-right: 20px;
        margin-top: 50px;
     }
-    adrielle 3C 27/08
+    
     .categoria-vídeos img {
       opacity: 0.70;
       height: 200px;
@@ -57,8 +57,8 @@ body {
        opacity:2.0;
        border:1px solid white;
    }
-   adrielle 3C 27/08
+   
    .categoria h2 {
        color: rgb(201, 11, 119);
    }
-   adrielle 3C 27/08
+   
